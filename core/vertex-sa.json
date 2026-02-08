@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ngd-africa",
+  "private_key_id": "992cd7d1ef5a7b96f6f88594b763a6183b79d4d4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5x6Rr3j6NVnrn\nTVUEV0YdIrviPEhKRt6L0/ILLNCE9tqX7XpP6QTIZkfi34lfYNS18lbRxGv+JP+3\nOeiScgajVM+HCWfmXAWGINh7myyF5X84rrB0jhEdDTJ4bFiwveTCXsIVOZniSlGq\nJrbndYBqkcZ1cThXmFnphZmvFSjdkqZRnwmhKL4R6LRQ1NzXKr+fCLW8d2msqpmF\ny1Hnk5LErThqYpg4v7vV2I1vsL+oMwx0UeF5wFLmFAMWvNHIONNyzK3EYzrj7YEw\no2tVstCahQq/bfnEloIcemMf0Q8Obvu96Jn96/TUUzGC9IS4RSS64vHgCYWZAZh9\nekyILyQlAgMBAAECggEAKIsFWqYKfCFMmphRjqw2KKsZGh8CPrV3IUhMePxbeD0A\nCOpiSDin2s0ZcI1MhzRUT2223TnywGiWJsgcNYNtZ+0dChD3K/pWmUYnQFhlr8Xd\nDQNwjksnuHGWG1o3w8B5QSLZU7T5nH0QE+Q1g88sinVMPHqMK2+b5Z7Kon8pZysX\nhi2c7NKIrrrVCEyeqd4Ib8Qi1Z46Mero9hvYF8dK5Oyz4AIsTe9zuhhzElIffZvZ\nCodDgZZby026tCyzUwucFsZbdX1n2xNPIpAG+rM9uwI5csG+0MZyMhTIdZ7EXL4K\nsE0MHAyQqhgP7w73xzCAyQhsmFPr8pVGLlwNe/47cQKBgQDvjUJUOKTVrqYOsB9P\nen17p2AZIFBJz4WrNPZLm4twdNSyV3lQ98b6G+XTvYoO5L09hPnjpWMq2OLZEh5M\nbRrlcdttB8W7RAaVprr1EhMsneIaxeloGBQR0a1qzm7GnsTrOEMR/6/x3Hs05CQn\ncI2ONeMnc8SpcI10YRNaDux/tQKBgQDGiTPbLCRH4Cy4W2VeWYufcf6UiGioNqgc\nyVMagMq9qjH2CNnaPaIkyNwMaHqLBMujHqVkUauUbcRnSyF0RWkmJrzZOlwv01Lf\nELDzeXlfhs5qX/FpzGIqsLp/SOHWiLBxQKm8FAqkPOGzfZ3zEmrAU77c/k8Voe16\n44S9JFZ4sQKBgEcM0LWGL22pZVtJ5Z9/JyS72gbZzLZ3tJ+5D6wRMGRkYoma5EKd\nmwinqZ0JxJ7yPSa4AB4C+czFk1Lqys3ENowDHx/RhFYssP9F+oGhoMpE8cEbHkVf\njuRSGmtpWvXSNXnGsC3wdlD4Ihrn58lC2tlpJjyXW6cd2PbBrCmz73VZAoGBAIos\nNO3lk75+M0F/QlZexcCLSp2/Le9cUrXuG6tHVVKY37qWwF+WI4GsVRFBqX+VL9Bv\n5LWj7WEY3+bvr/HG2P5XWXlpl30leviKGkzpDuK/5Gq+KTrzpqKFatZpN9viN8Iq\nObcOz7UsNfyAgWwJNkhyQFR3nTy1/JxZOimU36WRAoGAA0XS8pI/xn8p0Yi2VwNh\nHl52l+Nt2a+p0nTSCv81A/lgLXfyvzLLqb0jKgKBPpjzAe5/B84l68/S26Bp7buI\nJW7Z+6MkRGDQ+CtMB47ellyW9jkTbyOL62GUlcXIZh2om6zXHnTxgTkiNtvppgmb\nZ5mPbI/AJCL0Q95n02KboNQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vertex-express@ngd-africa.iam.gserviceaccount.com",
+  "client_id": "113814996003273943940",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vertex-express%40ngd-africa.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

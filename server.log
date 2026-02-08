@@ -1,0 +1,1829 @@
+Watching for file changes with StatReloader
+Not Found: /
+[07/Feb/2026 21:43:56] "GET / HTTP/1.1" 404 2646
+Not Found: /favicon.ico
+[07/Feb/2026 21:43:56] "GET /favicon.ico HTTP/1.1" 404 2697
+[07/Feb/2026 21:44:03] "GET /admin HTTP/1.1" 301 0
+[07/Feb/2026 21:44:03] "GET /admin/ HTTP/1.1" 302 0
+[07/Feb/2026 21:44:03] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4080
+[07/Feb/2026 21:44:03] "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 3538
+[07/Feb/2026 21:44:03] "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+[07/Feb/2026 21:44:03] "GET /static/admin/css/base.css HTTP/1.1" 200 23100
+[07/Feb/2026 21:44:03] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+[07/Feb/2026 21:44:03] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+[07/Feb/2026 21:44:03] "GET /static/admin/css/login.css HTTP/1.1" 200 951
+[07/Feb/2026 21:44:03] "GET /static/admin/css/responsive.css HTTP/1.1" 200 16273
+[07/Feb/2026 21:45:10] "OPTIONS /api/requests/ HTTP/1.1" 200 0
+[07/Feb/2026 21:45:10] "POST /api/requests/ HTTP/1.1" 202 45
+[07/Feb/2026 21:45:12] "GET /api/requests/cb5de0f0-2153-4b89-a3ca-404efb6398ab/ HTTP/1.1" 200 78
+[07/Feb/2026 21:45:14] "GET /api/requests/cb5de0f0-2153-4b89-a3ca-404efb6398ab/ HTTP/1.1" 200 99
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_client.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 07, 2026 - 21:43:41
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+[07/Feb/2026 21:46:33] "OPTIONS /api/requests/ HTTP/1.1" 200 0
+[07/Feb/2026 21:46:33] "POST /api/requests/ HTTP/1.1" 202 45
+[07/Feb/2026 21:46:35] "GET /api/requests/4f10dac9-555d-466e-8d1a-79289500e4cb/ HTTP/1.1" 200 78
+[07/Feb/2026 21:46:37] "GET /api/requests/4f10dac9-555d-466e-8d1a-79289500e4cb/ HTTP/1.1" 200 374
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_client.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 07, 2026 - 21:46:27
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+[07/Feb/2026 21:49:34] "OPTIONS /api/requests/ HTTP/1.1" 200 0
+[07/Feb/2026 21:49:34] "POST /api/requests/ HTTP/1.1" 202 45
+[07/Feb/2026 21:49:36] "GET /api/requests/1d3c43ab-2427-42f2-b5bb-ac5ddaa76dde/ HTTP/1.1" 200 78
+[07/Feb/2026 21:49:39] "GET /api/requests/1d3c43ab-2427-42f2-b5bb-ac5ddaa76dde/ HTTP/1.1" 200 381
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_client.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 07, 2026 - 21:49:33
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 07, 2026 - 21:58:03
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/groit_ai/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 07, 2026 - 21:59:24
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_client.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 07, 2026 - 21:59:35
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+[07/Feb/2026 22:03:32] "GET /api/models/ HTTP/1.1" 200 14977
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_client.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 07, 2026 - 22:03:00
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+[07/Feb/2026 22:06:03] "OPTIONS /api/requests/ HTTP/1.1" 200 0
+[07/Feb/2026 22:06:03] "POST /api/requests/ HTTP/1.1" 202 45
+[07/Feb/2026 22:06:05] "GET /api/requests/d152156f-6a1a-4319-a804-2232c170b285/ HTTP/1.1" 200 78
+[07/Feb/2026 22:06:07] "GET /api/requests/d152156f-6a1a-4319-a804-2232c170b285/ HTTP/1.1" 200 2993
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_client.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 07, 2026 - 22:05:50
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+[07/Feb/2026 22:06:53] "OPTIONS /api/requests/ HTTP/1.1" 200 0
+[07/Feb/2026 22:06:53] "POST /api/requests/ HTTP/1.1" 202 45
+[07/Feb/2026 22:06:55] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:06:57] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:06:59] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:01] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:03] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:05] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:07] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:09] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:11] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:13] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:16] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:18] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:20] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:22] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:24] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:26] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:28] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:30] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:32] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:34] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:36] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:38] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 78
+[07/Feb/2026 22:07:40] "GET /api/requests/c5768ee8-52c3-4d5b-a5b2-16fd016a7907/ HTTP/1.1" 200 77
+[07/Feb/2026 22:07:40] "OPTIONS /graphql/ HTTP/1.1" 200 0
+Forbidden (CSRF cookie not set.): /graphql/
+[07/Feb/2026 22:07:40] "POST /graphql/ HTTP/1.1" 403 2855
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/groit_ai/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 07, 2026 - 22:06:50
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+[07/Feb/2026 22:08:45] "OPTIONS /api/requests/ HTTP/1.1" 200 0
+[07/Feb/2026 22:08:45] "POST /api/requests/ HTTP/1.1" 202 45
+[07/Feb/2026 22:08:47] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:08:49] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:08:51] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:08:53] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:08:55] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:08:57] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:08:59] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:09:01] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:09:04] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:09:06] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:09:08] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:09:10] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:09:12] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:09:14] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:09:16] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:09:18] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:09:20] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:09:22] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:09:24] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:09:26] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:09:28] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:09:30] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 78
+[07/Feb/2026 22:09:32] "GET /api/requests/de0642a5-79dc-4246-813a-3274c5ebb0ec/ HTTP/1.1" 200 244
+[07/Feb/2026 22:11:43] "OPTIONS /api/requests/ HTTP/1.1" 200 0
+[07/Feb/2026 22:11:43] "POST /api/requests/ HTTP/1.1" 202 45
+[07/Feb/2026 22:11:45] "GET /api/requests/21a9ef14-4ee5-458a-b28c-60a9257bf9d6/ HTTP/1.1" 200 78
+[07/Feb/2026 22:11:47] "GET /api/requests/21a9ef14-4ee5-458a-b28c-60a9257bf9d6/ HTTP/1.1" 200 78
+[07/Feb/2026 22:11:49] "GET /api/requests/21a9ef14-4ee5-458a-b28c-60a9257bf9d6/ HTTP/1.1" 200 78
+[07/Feb/2026 22:11:51] "GET /api/requests/21a9ef14-4ee5-458a-b28c-60a9257bf9d6/ HTTP/1.1" 200 78
+[07/Feb/2026 22:11:53] "GET /api/requests/21a9ef14-4ee5-458a-b28c-60a9257bf9d6/ HTTP/1.1" 200 78
+[07/Feb/2026 22:11:55] "GET /api/requests/21a9ef14-4ee5-458a-b28c-60a9257bf9d6/ HTTP/1.1" 200 78
+[07/Feb/2026 22:11:57] "GET /api/requests/21a9ef14-4ee5-458a-b28c-60a9257bf9d6/ HTTP/1.1" 200 78
+[07/Feb/2026 22:11:59] "GET /api/requests/21a9ef14-4ee5-458a-b28c-60a9257bf9d6/ HTTP/1.1" 200 78
+[07/Feb/2026 22:12:01] "GET /api/requests/21a9ef14-4ee5-458a-b28c-60a9257bf9d6/ HTTP/1.1" 200 78
+[07/Feb/2026 22:12:03] "GET /api/requests/21a9ef14-4ee5-458a-b28c-60a9257bf9d6/ HTTP/1.1" 200 78
+[07/Feb/2026 22:12:05] "GET /api/requests/21a9ef14-4ee5-458a-b28c-60a9257bf9d6/ HTTP/1.1" 200 78
+[07/Feb/2026 22:12:08] "GET /api/requests/21a9ef14-4ee5-458a-b28c-60a9257bf9d6/ HTTP/1.1" 200 78
+[07/Feb/2026 22:12:10] "GET /api/requests/21a9ef14-4ee5-458a-b28c-60a9257bf9d6/ HTTP/1.1" 200 78
+[07/Feb/2026 22:12:12] "GET /api/requests/21a9ef14-4ee5-458a-b28c-60a9257bf9d6/ HTTP/1.1" 200 78
+[07/Feb/2026 22:12:14] "GET /api/requests/21a9ef14-4ee5-458a-b28c-60a9257bf9d6/ HTTP/1.1" 200 78
+[07/Feb/2026 22:12:16] "GET /api/requests/21a9ef14-4ee5-458a-b28c-60a9257bf9d6/ HTTP/1.1" 200 78
+[07/Feb/2026 22:12:18] "GET /api/requests/21a9ef14-4ee5-458a-b28c-60a9257bf9d6/ HTTP/1.1" 200 78
+[07/Feb/2026 22:12:20] "GET /api/requests/21a9ef14-4ee5-458a-b28c-60a9257bf9d6/ HTTP/1.1" 200 77
+[07/Feb/2026 22:12:20] "OPTIONS /graphql/ HTTP/1.1" 200 0
+[07/Feb/2026 22:12:20] "POST /graphql/ HTTP/1.1" 200 11521
+[07/Feb/2026 22:14:52] "OPTIONS /api/requests/ HTTP/1.1" 200 0
+[07/Feb/2026 22:14:53] "POST /api/requests/ HTTP/1.1" 202 45
+[07/Feb/2026 22:14:55] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:14:57] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:14:59] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:01] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:03] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:05] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:07] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:09] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:11] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:13] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:15] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:17] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:19] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:21] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:23] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:25] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:27] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:29] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:31] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:33] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:35] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:37] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 78
+[07/Feb/2026 22:15:39] "GET /api/requests/508f5c7b-4fe8-4e90-8870-d93887c4c06d/ HTTP/1.1" 200 77
+[07/Feb/2026 22:15:39] "OPTIONS /graphql/ HTTP/1.1" 200 0
+[07/Feb/2026 22:15:39] "POST /graphql/ HTTP/1.1" 200 11934
+[08/Feb/2026 01:06:03] "OPTIONS /api/requests/ HTTP/1.1" 200 0
+[08/Feb/2026 01:06:03] "POST /api/requests/ HTTP/1.1" 202 45
+[08/Feb/2026 01:06:05] "GET /api/requests/6a5c1913-4835-463f-9175-21e20c369760/ HTTP/1.1" 200 1553
+[08/Feb/2026 01:41:19] "POST /api/requests/ HTTP/1.1" 202 45
+[08/Feb/2026 01:41:21] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 78
+[08/Feb/2026 01:41:23] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 78
+[08/Feb/2026 01:41:25] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 78
+[08/Feb/2026 01:41:27] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 78
+[08/Feb/2026 01:41:29] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 78
+[08/Feb/2026 01:41:31] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 78
+[08/Feb/2026 01:41:33] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 78
+[08/Feb/2026 01:41:35] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 78
+[08/Feb/2026 01:41:37] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 78
+[08/Feb/2026 01:41:39] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 78
+[08/Feb/2026 01:41:41] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 78
+[08/Feb/2026 01:41:43] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 78
+[08/Feb/2026 01:41:45] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 78
+[08/Feb/2026 01:41:48] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 78
+[08/Feb/2026 01:41:50] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 78
+[08/Feb/2026 01:41:52] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 78
+[08/Feb/2026 01:41:54] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 78
+[08/Feb/2026 01:41:56] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 78
+[08/Feb/2026 01:41:58] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 78
+[08/Feb/2026 01:42:00] "GET /api/requests/17f28858-f647-49aa-bc44-2bd22ea715ae/ HTTP/1.1" 200 77
+[08/Feb/2026 01:42:00] "OPTIONS /graphql/ HTTP/1.1" 200 0
+[08/Feb/2026 01:42:00] "POST /graphql/ HTTP/1.1" 200 12427
+[08/Feb/2026 01:45:35] "POST /api/requests/ HTTP/1.1" 202 45
+[08/Feb/2026 01:45:37] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:45:39] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:45:41] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:45:43] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:45:45] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:45:47] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:45:49] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:45:51] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:45:53] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:45:55] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:45:57] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:45:59] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:46:01] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:46:03] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:46:05] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:46:07] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:46:09] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:46:11] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:46:13] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:46:15] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:46:17] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:46:19] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:46:21] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 78
+[08/Feb/2026 01:46:23] "GET /api/requests/a337a112-aba8-4cc3-a9c0-0d4e2d28107a/ HTTP/1.1" 200 77
+[08/Feb/2026 01:46:23] "POST /graphql/ HTTP/1.1" 200 11645
+[08/Feb/2026 01:52:56] "POST /api/requests/ HTTP/1.1" 202 45
+[08/Feb/2026 01:52:58] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:00] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:02] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:04] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:06] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:08] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:10] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:12] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:14] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:16] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:18] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:20] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:22] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:24] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:26] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:28] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:30] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:32] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:34] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:36] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:38] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:40] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 78
+[08/Feb/2026 01:53:42] "GET /api/requests/5e78c913-02e7-49ef-87f5-ee07c01411a2/ HTTP/1.1" 200 77
+[08/Feb/2026 01:53:42] "POST /graphql/ HTTP/1.1" 200 11500
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/groit_ai/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 07, 2026 - 22:08:38
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/groit_ai/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 02:00:17
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/processor.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 02:00:28
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.14/3.14.0/Frameworks/Python.framework/Versions/3.14/lib/python3.14/threading.py", line 1081, in _bootstrap_inner
+    self._context.run(self.run)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.0/Frameworks/Python.framework/Versions/3.14/lib/python3.14/threading.py", line 1023, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+    ~~^^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(**check_kwargs)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/management/base.py", line 496, in check
+    all_issues = checks.run_checks(
+        app_configs=app_configs,
+    ...<2 lines>...
+        databases=databases,
+    )
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/checks/registry.py", line 89, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/checks/urls.py", line 44, in check_url_namespaces_unique
+    all_namespaces = _load_all_namespaces(resolver)
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/checks/urls.py", line 63, in _load_all_namespaces
+    url_patterns = getattr(resolver, "url_patterns", [])
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/urls/resolvers.py", line 729, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/urls/resolvers.py", line 722, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/opt/homebrew/Cellar/python@3.14/3.14.0/Frameworks/Python.framework/Versions/3.14/lib/python3.14/importlib/__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1398, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1371, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1342, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 938, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 762, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/groit_ai/urls.py", line 23, in <module>
+    from core.api import GeminiModelListView, StoryRequestCreateView, StoryRequestStatusView
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py", line 7, in <module>
+    from core.services.processor import enqueue_request
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/processor.py", line 48
+    media_root = Path(os.environ.get('DJANGO_MEDIA_ROOT', ''))\n+                if not media_root:\n+                    from django.conf import settings\n+                    media_root = Path(settings.MEDIA_ROOT)\n+                out_dir = media_root / 'tts'\n+                out_dir.mkdir(parents=True, exist_ok=True)\n+                suffix = 'wav' if 'wav' in story_request.audio_format else 'mp3'\n+                file_name = f\"{story_request.id}.{suffix}\"\n+                out_path = out_dir / file_name\n+                out_path.write_bytes(audio_bytes)\n+                story_request.audio_url = f\"/media/tts/{file_name}\"\n+            except Exception:\n+                pass
+                                                               ^
+SyntaxError: unexpected character after line continuation character
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/processor.py changed, reloading.
+Performing system checks...
+
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/processor.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 02:05:09
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 02:05:24
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+[08/Feb/2026 02:08:07] "POST /api/requests/ HTTP/1.1" 202 45
+[08/Feb/2026 02:08:09] "GET /api/requests/ff1bd5e9-2136-4f69-b038-1a61f641b8a7/ HTTP/1.1" 200 78
+[08/Feb/2026 02:08:11] "GET /api/requests/ff1bd5e9-2136-4f69-b038-1a61f641b8a7/ HTTP/1.1" 200 78
+[08/Feb/2026 02:08:13] "GET /api/requests/ff1bd5e9-2136-4f69-b038-1a61f641b8a7/ HTTP/1.1" 200 78
+[08/Feb/2026 02:08:15] "GET /api/requests/ff1bd5e9-2136-4f69-b038-1a61f641b8a7/ HTTP/1.1" 200 78
+[08/Feb/2026 02:08:17] "GET /api/requests/ff1bd5e9-2136-4f69-b038-1a61f641b8a7/ HTTP/1.1" 200 78
+[08/Feb/2026 02:08:19] "GET /api/requests/ff1bd5e9-2136-4f69-b038-1a61f641b8a7/ HTTP/1.1" 200 78
+[08/Feb/2026 02:08:21] "GET /api/requests/ff1bd5e9-2136-4f69-b038-1a61f641b8a7/ HTTP/1.1" 200 78
+[08/Feb/2026 02:08:24] "GET /api/requests/ff1bd5e9-2136-4f69-b038-1a61f641b8a7/ HTTP/1.1" 200 78
+[08/Feb/2026 02:08:26] "GET /api/requests/ff1bd5e9-2136-4f69-b038-1a61f641b8a7/ HTTP/1.1" 200 78
+[08/Feb/2026 02:08:28] "GET /api/requests/ff1bd5e9-2136-4f69-b038-1a61f641b8a7/ HTTP/1.1" 200 78
+[08/Feb/2026 02:08:30] "GET /api/requests/ff1bd5e9-2136-4f69-b038-1a61f641b8a7/ HTTP/1.1" 200 78
+[08/Feb/2026 02:08:32] "GET /api/requests/ff1bd5e9-2136-4f69-b038-1a61f641b8a7/ HTTP/1.1" 200 78
+[08/Feb/2026 02:08:34] "GET /api/requests/ff1bd5e9-2136-4f69-b038-1a61f641b8a7/ HTTP/1.1" 200 78
+[08/Feb/2026 02:08:36] "GET /api/requests/ff1bd5e9-2136-4f69-b038-1a61f641b8a7/ HTTP/1.1" 200 78
+[08/Feb/2026 02:08:38] "GET /api/requests/ff1bd5e9-2136-4f69-b038-1a61f641b8a7/ HTTP/1.1" 200 78
+[08/Feb/2026 02:08:40] "GET /api/requests/ff1bd5e9-2136-4f69-b038-1a61f641b8a7/ HTTP/1.1" 200 78
+[08/Feb/2026 02:08:42] "GET /api/requests/ff1bd5e9-2136-4f69-b038-1a61f641b8a7/ HTTP/1.1" 200 78
+[08/Feb/2026 02:08:44] "GET /api/requests/ff1bd5e9-2136-4f69-b038-1a61f641b8a7/ HTTP/1.1" 200 77
+[08/Feb/2026 02:08:44] "POST /graphql/ HTTP/1.1" 200 11675
+[08/Feb/2026 02:10:42] "POST /api/requests/ HTTP/1.1" 202 45
+[08/Feb/2026 02:10:44] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:10:46] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:10:48] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:10:50] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:10:52] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:10:54] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:10:56] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:10:58] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:11:00] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:11:02] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:11:04] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:11:06] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:11:08] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:11:10] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:11:12] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:11:14] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:11:16] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:11:18] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:11:20] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:11:22] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:11:24] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:11:26] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:11:28] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 78
+[08/Feb/2026 02:11:30] "GET /api/requests/380b3b5d-d6b7-4b3a-abe7-de0842db67ef/ HTTP/1.1" 200 77
+[08/Feb/2026 02:11:30] "POST /graphql/ HTTP/1.1" 200 13160
+[08/Feb/2026 02:12:11] "OPTIONS /api/requests/ HTTP/1.1" 200 0
+[08/Feb/2026 02:12:11] "POST /api/requests/ HTTP/1.1" 202 45
+[08/Feb/2026 02:12:13] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 78
+[08/Feb/2026 02:12:15] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 78
+[08/Feb/2026 02:12:17] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 78
+[08/Feb/2026 02:12:19] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 78
+[08/Feb/2026 02:12:21] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 78
+[08/Feb/2026 02:12:23] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 78
+[08/Feb/2026 02:12:25] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 78
+[08/Feb/2026 02:12:27] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 78
+[08/Feb/2026 02:12:29] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 78
+[08/Feb/2026 02:12:31] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 78
+[08/Feb/2026 02:12:33] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 78
+[08/Feb/2026 02:12:35] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 78
+[08/Feb/2026 02:12:37] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 78
+[08/Feb/2026 02:12:39] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 78
+[08/Feb/2026 02:12:42] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 78
+[08/Feb/2026 02:12:44] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 78
+[08/Feb/2026 02:12:46] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 78
+[08/Feb/2026 02:12:48] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 78
+[08/Feb/2026 02:12:50] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 78
+[08/Feb/2026 02:12:52] "GET /api/requests/32c31738-186c-4396-bdd6-c25a76389665/ HTTP/1.1" 200 77
+[08/Feb/2026 02:12:52] "OPTIONS /graphql/ HTTP/1.1" 200 0
+[08/Feb/2026 02:12:52] "POST /graphql/ HTTP/1.1" 200 11640
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 02:07:57
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.14/3.14.0/Frameworks/Python.framework/Versions/3.14/lib/python3.14/threading.py", line 1081, in _bootstrap_inner
+    self._context.run(self.run)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.0/Frameworks/Python.framework/Versions/3.14/lib/python3.14/threading.py", line 1023, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+    ~~^^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(**check_kwargs)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/management/base.py", line 496, in check
+    all_issues = checks.run_checks(
+        app_configs=app_configs,
+    ...<2 lines>...
+        databases=databases,
+    )
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/checks/registry.py", line 89, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/checks/urls.py", line 44, in check_url_namespaces_unique
+    all_namespaces = _load_all_namespaces(resolver)
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/checks/urls.py", line 63, in _load_all_namespaces
+    url_patterns = getattr(resolver, "url_patterns", [])
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/urls/resolvers.py", line 729, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/urls/resolvers.py", line 722, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/opt/homebrew/Cellar/python@3.14/3.14.0/Frameworks/Python.framework/Versions/3.14/lib/python3.14/importlib/__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1398, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1371, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1342, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 938, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 762, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/groit_ai/urls.py", line 23, in <module>
+    from core.api import GeminiModelListView, StoryRequestCreateView, StoryRequestStatusView
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py", line 93
+    file_name = f\"test-{uuid.uuid4()}.{suffix}\"
+                  ^
+SyntaxError: unexpected character after line continuation character
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/groit_ai/settings.py changed, reloading.
+Performing system checks...
+
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.14/3.14.0/Frameworks/Python.framework/Versions/3.14/lib/python3.14/threading.py", line 1081, in _bootstrap_inner
+    self._context.run(self.run)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.0/Frameworks/Python.framework/Versions/3.14/lib/python3.14/threading.py", line 1023, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+    ~~^^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(**check_kwargs)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/management/base.py", line 496, in check
+    all_issues = checks.run_checks(
+        app_configs=app_configs,
+    ...<2 lines>...
+        databases=databases,
+    )
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/checks/registry.py", line 89, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/checks/urls.py", line 44, in check_url_namespaces_unique
+    all_namespaces = _load_all_namespaces(resolver)
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/checks/urls.py", line 63, in _load_all_namespaces
+    url_patterns = getattr(resolver, "url_patterns", [])
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/urls/resolvers.py", line 729, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/urls/resolvers.py", line 722, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/opt/homebrew/Cellar/python@3.14/3.14.0/Frameworks/Python.framework/Versions/3.14/lib/python3.14/importlib/__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1398, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1371, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1342, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 938, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 762, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/groit_ai/urls.py", line 23, in <module>
+    from core.api import GeminiModelListView, GeminiTtsTestView, StoryRequestCreateView, StoryRequestStatusView
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py", line 93
+    file_name = f\"test-{uuid.uuid4()}.{suffix}\"
+                  ^
+SyntaxError: unexpected character after line continuation character
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py changed, reloading.
+Performing system checks...
+
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 02:25:05
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 02:27:31
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 02:31:51
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 02:32:08
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 02:38:06
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/processor.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 02:38:32
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 02:38:53
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 02:39:15
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 02:39:27
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 02:47:32
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 02:48:53
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/processor.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 03:02:01
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.14/3.14.0/Frameworks/Python.framework/Versions/3.14/lib/python3.14/threading.py", line 1081, in _bootstrap_inner
+    self._context.run(self.run)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.0/Frameworks/Python.framework/Versions/3.14/lib/python3.14/threading.py", line 1023, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+    ~~^^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(**check_kwargs)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/management/base.py", line 496, in check
+    all_issues = checks.run_checks(
+        app_configs=app_configs,
+    ...<2 lines>...
+        databases=databases,
+    )
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/checks/registry.py", line 89, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/checks/urls.py", line 44, in check_url_namespaces_unique
+    all_namespaces = _load_all_namespaces(resolver)
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/checks/urls.py", line 63, in _load_all_namespaces
+    url_patterns = getattr(resolver, "url_patterns", [])
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/urls/resolvers.py", line 729, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/urls/resolvers.py", line 722, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/opt/homebrew/Cellar/python@3.14/3.14.0/Frameworks/Python.framework/Versions/3.14/lib/python3.14/importlib/__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1398, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1371, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1342, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 938, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 762, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/groit_ai/urls.py", line 23, in <module>
+    from core.api import GeminiModelListView, GeminiTtsTestView, StoryRequestCreateView, StoryRequestStatusView
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py", line 14, in <module>
+    from core.services.processor import enqueue_request
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/processor.py", line 55
+    if 'wav' in mime or 'l16' in mime:\n+                    suffix = 'wav'\n+                elif 'mpeg' in mime or 'mp3' in mime:\n+                    suffix = 'mp3'\n+                else:\n+                    suffix = 'bin'
+                                       ^
+SyntaxError: unexpected character after line continuation character
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/processor.py changed, reloading.
+Performing system checks...
+
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 03:02:39
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 03:02:53
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 03:04:10
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 03:05:04
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 03:07:52
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 03:09:32
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 03:11:35
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 03:12:42
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 03:13:57
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 03:20:50
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 03:22:11
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 03:22:40
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 03:23:35
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/processor.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 06:41:37
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 06:42:09
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 06:42:51
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 06:43:13
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 06:51:42
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 06:55:31
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 06:56:25
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:00:16
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:05:52
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:07:21
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:08:19
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:09:32
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_client.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:12:17
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:12:25
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_client.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:15:15
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:15:49
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:20:47
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/groit_ai/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:25:09
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/vertex_models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:25:29
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/vertex_models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:28:17
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/vertex_models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:29:04
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/vertex_models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:29:40
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:31:03
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/vertex_models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:31:20
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/vertex_models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:34:36
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:36:27
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/vertex_models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:36:36
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/vertex_models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:37:35
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:40:34
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/vertex_models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:40:43
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/vertex_models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:44:20
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 07:47:56
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 08:09:26
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 08:41:00
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 08:44:26
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 08:51:28
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 08:51:59
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 08:52:39
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 08:53:49
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 09:21:41
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/processor.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 09:21:45
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 09:22:34
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 09:22:38
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/processor.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 09:30:55
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/processor.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 09:31:07
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 09:35:09
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 09:42:34
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/pipeline.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 09:45:13
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 09:45:23
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/groit_ai/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 09:51:09
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/processor.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 09:51:16
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 09:51:23
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 09:51:30
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 10:05:45
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 10:08:16
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 10:12:14
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/groit_ai/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 10:20:03
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_client.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 10:20:12
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 10:26:40
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 10:50:56
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 11:25:24
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/processor.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 11:26:15
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 11:26:29
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 11:27:06
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/gemini_tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 11:29:05
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/vertex_models.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 11:29:15
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 11:29:25
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 11:47:10
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 12:31:12
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 12:47:19
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
