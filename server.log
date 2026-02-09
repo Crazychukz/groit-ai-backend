@@ -2105,3 +2105,27 @@ Quit the server with CONTROL-C.
 WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
 For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
 Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/groit_ai/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 09, 2026 - 08:52:24
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/groit_ai/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 09, 2026 - 09:15:17
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
