@@ -3,6 +3,7 @@ import os
 import time
 import urllib.error
 import urllib.request
+from pathlib import Path
 
 
 MODEL = os.environ.get("GEMINI_MODEL", "gemini-3-flash-preview")
@@ -87,11 +88,11 @@ def classify_batch(api_key, items):
 
 
 def main():
-    api_key = "AIzaSyCbx9j9L6Zj4fyd5r-YXAP1fz7roO1E3iI"
+    api_key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not api_key:
         raise SystemExit("GEMINI_API_KEY not set")
 
-    extra_path = "/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/proverbs_extra.json"
+    extra_path = Path(__file__).resolve().parent.parent / "proverbs_extra.json"
     with open(extra_path, "r", encoding="utf-8") as f:
         extra = json.load(f)
 

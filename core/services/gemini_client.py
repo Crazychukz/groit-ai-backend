@@ -11,7 +11,7 @@ class GeminiError(Exception):
 
 
 def _request(payload):
-    api_key = os.environ.get('GEMINI_API_KEY', "AIzaSyCbx9j9L6Zj4fyd5r-YXAP1fz7roO1E3iI")
+    api_key = os.environ.get('GEMINI_API_KEY', '').strip()
     if not api_key:
         raise GeminiError('GEMINI_API_KEY is not set')
 
@@ -109,7 +109,7 @@ def generate_text(system_prompt, user_prompt):
 
 
 def list_models():
-    api_key = os.environ.get('GEMINI_API_KEY', "AIzaSyCbx9j9L6Zj4fyd5r-YXAP1fz7roO1E3iI")
+    api_key = os.environ.get('GEMINI_API_KEY', '').strip()
     if not api_key:
         raise GeminiError('GEMINI_API_KEY is not set')
 
