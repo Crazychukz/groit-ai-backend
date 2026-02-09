@@ -4,7 +4,8 @@ certifi==2026.1.4
 cffi==2.0.0
 charset-normalizer==3.4.4
 cryptography==46.0.4
-Django==6.0.2
+Django==6.0.2; python_version >= "3.12"
+Django==5.2.11; python_version < "3.12"
 django-cors-headers==4.9.0
 djangorestframework==3.16.1
 google-api-core==2.29.0
