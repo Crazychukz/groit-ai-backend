@@ -1827,3 +1827,281 @@ Quit the server with CONTROL-C.
 WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
 For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
 Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 13:01:17
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.14/3.14.0/Frameworks/Python.framework/Versions/3.14/lib/python3.14/threading.py", line 1081, in _bootstrap_inner
+    self._context.run(self.run)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.0/Frameworks/Python.framework/Versions/3.14/lib/python3.14/threading.py", line 1023, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+    ~~^^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/management/commands/runserver.py", line 134, in inner_run
+    self.check(**check_kwargs)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/management/base.py", line 496, in check
+    all_issues = checks.run_checks(
+        app_configs=app_configs,
+    ...<2 lines>...
+        databases=databases,
+    )
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/checks/registry.py", line 89, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/checks/urls.py", line 44, in check_url_namespaces_unique
+    all_namespaces = _load_all_namespaces(resolver)
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/core/checks/urls.py", line 63, in _load_all_namespaces
+    url_patterns = getattr(resolver, "url_patterns", [])
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/urls/resolvers.py", line 729, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ~~~~~~~~~^^^^^^^^^^
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/.venv/lib/python3.14/site-packages/django/urls/resolvers.py", line 722, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/opt/homebrew/Cellar/python@3.14/3.14.0/Frameworks/Python.framework/Versions/3.14/lib/python3.14/importlib/__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1398, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1371, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1342, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 938, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 762, in exec_module
+  File "<frozen importlib._bootstrap>", line 491, in _call_with_frames_removed
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/groit_ai/urls.py", line 23, in <module>
+    from core.api import (
+    ...<7 lines>...
+    )
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/api.py", line 15, in <module>
+    from core.services.tts import synthesize as google_synthesize
+  File "/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/tts.py", line 160
+    + f'<p>{"<break time=\\"' + sentence_break + '\\"/>".join(shaped)}</p>'
+                                                   ^
+SyntaxError: unexpected character after line continuation character
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/tts.py changed, reloading.
+Performing system checks...
+
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 23:09:37
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 23:10:05
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 23:12:50
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+[08/Feb/2026 23:15:32] "POST /api/tts-realtime/ HTTP/1.1" 200 73005
+[08/Feb/2026 23:15:43] "POST /api/tts-realtime/ HTTP/1.1" 200 37933
+[08/Feb/2026 23:15:51] "POST /api/tts-realtime/ HTTP/1.1" 200 50733
+[08/Feb/2026 23:15:59] "POST /api/tts-realtime/ HTTP/1.1" 200 33069
+[08/Feb/2026 23:16:06] "POST /api/tts-realtime/ HTTP/1.1" 200 48173
+[08/Feb/2026 23:16:15] "POST /api/tts-realtime/ HTTP/1.1" 200 47149
+[08/Feb/2026 23:16:23] "POST /api/tts-realtime/ HTTP/1.1" 200 66861
+[08/Feb/2026 23:16:33] "POST /api/tts-realtime/ HTTP/1.1" 200 80685
+[08/Feb/2026 23:16:45] "POST /api/tts-realtime/ HTTP/1.1" 200 46125
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 23:15:26
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 23:16:48
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+[08/Feb/2026 23:17:08] "POST /api/tts-realtime/ HTTP/1.1" 200 71725
+[08/Feb/2026 23:17:19] "POST /api/tts-realtime/ HTTP/1.1" 200 9005
+[08/Feb/2026 23:17:24] "POST /api/tts-realtime/ HTTP/1.1" 200 100909
+[08/Feb/2026 23:17:37] "POST /api/tts-realtime/ HTTP/1.1" 200 12589
+[08/Feb/2026 23:17:43] "POST /api/tts-realtime/ HTTP/1.1" 200 63277
+[08/Feb/2026 23:17:53] "POST /api/tts-realtime/ HTTP/1.1" 200 18477
+[08/Feb/2026 23:17:58] "POST /api/tts-realtime/ HTTP/1.1" 200 48173
+[08/Feb/2026 23:18:51] "POST /api/tts-realtime/ HTTP/1.1" 200 27181
+[08/Feb/2026 23:18:58] "POST /api/tts-realtime/ HTTP/1.1" 200 24365
+[08/Feb/2026 23:19:04] "POST /api/tts-realtime/ HTTP/1.1" 200 70445
+[08/Feb/2026 23:19:15] "POST /api/tts-realtime/ HTTP/1.1" 200 61741
+[08/Feb/2026 23:19:24] "POST /api/tts-realtime/ HTTP/1.1" 200 55853
+[08/Feb/2026 23:19:33] "POST /api/tts-realtime/ HTTP/1.1" 200 31533
+[08/Feb/2026 23:19:40] "POST /api/tts-realtime/ HTTP/1.1" 200 12333
+[08/Feb/2026 23:19:45] "POST /api/tts-realtime/ HTTP/1.1" 200 13613
+[08/Feb/2026 23:19:50] "POST /api/tts-realtime/ HTTP/1.1" 200 64045
+[08/Feb/2026 23:20:00] "POST /api/tts-realtime/ HTTP/1.1" 200 64813
+[08/Feb/2026 23:20:10] "POST /api/tts-realtime/ HTTP/1.1" 200 22829
+[08/Feb/2026 23:20:16] "POST /api/tts-realtime/ HTTP/1.1" 200 52781
+[08/Feb/2026 23:20:25] "POST /api/tts-realtime/ HTTP/1.1" 200 91437
+[08/Feb/2026 23:20:37] "POST /api/tts-realtime/ HTTP/1.1" 200 18989
+[08/Feb/2026 23:20:43] "POST /api/tts-realtime/ HTTP/1.1" 200 73005
+[08/Feb/2026 23:20:54] "POST /api/tts-realtime/ HTTP/1.1" 200 37933
+[08/Feb/2026 23:21:02] "POST /api/tts-realtime/ HTTP/1.1" 200 50733
+[08/Feb/2026 23:21:11] "POST /api/tts-realtime/ HTTP/1.1" 200 33069
+[08/Feb/2026 23:21:18] "POST /api/tts-realtime/ HTTP/1.1" 200 48173
+[08/Feb/2026 23:21:26] "POST /api/tts-realtime/ HTTP/1.1" 200 47149
+[08/Feb/2026 23:21:35] "POST /api/tts-realtime/ HTTP/1.1" 200 66861
+[08/Feb/2026 23:21:46] "POST /api/tts-realtime/ HTTP/1.1" 200 80685
+[08/Feb/2026 23:21:57] "POST /api/tts-realtime/ HTTP/1.1" 200 46125
+[08/Feb/2026 23:22:06] "POST /api/tts-realtime/ HTTP/1.1" 200 59693
+[08/Feb/2026 23:22:16] "POST /api/tts-realtime/ HTTP/1.1" 200 71725
+[08/Feb/2026 23:22:26] "POST /api/tts-realtime/ HTTP/1.1" 200 9005
+[08/Feb/2026 23:22:31] "POST /api/tts-realtime/ HTTP/1.1" 200 100909
+[08/Feb/2026 23:22:45] "POST /api/tts-realtime/ HTTP/1.1" 200 12589
+[08/Feb/2026 23:22:50] "POST /api/tts-realtime/ HTTP/1.1" 200 63277
+[08/Feb/2026 23:22:59] "POST /api/tts-realtime/ HTTP/1.1" 200 18477
+[08/Feb/2026 23:23:05] "POST /api/tts-realtime/ HTTP/1.1" 200 48173
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 23:17:03
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+[08/Feb/2026 23:49:51] "POST /api/tts-realtime/ HTTP/1.1" 200 26925
+[08/Feb/2026 23:49:54] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:49:57] "POST /api/tts-realtime/ HTTP/1.1" 200 10541
+[08/Feb/2026 23:49:58] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:50:02] "POST /api/tts-realtime/ HTTP/1.1" 200 17197
+[08/Feb/2026 23:50:04] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:50:07] "POST /api/tts-realtime/ HTTP/1.1" 200 56621
+[08/Feb/2026 23:50:13] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:50:17] "POST /api/tts-realtime/ HTTP/1.1" 200 45101
+[08/Feb/2026 23:50:21] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:50:24] "POST /api/tts-realtime/ HTTP/1.1" 200 15661
+[08/Feb/2026 23:50:26] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:50:30] "POST /api/tts-realtime/ HTTP/1.1" 200 21293
+[08/Feb/2026 23:50:32] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:50:36] "POST /api/tts-realtime/ HTTP/1.1" 200 46637
+[08/Feb/2026 23:50:40] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:50:44] "POST /api/tts-realtime/ HTTP/1.1" 200 34861
+[08/Feb/2026 23:50:48] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:50:51] "POST /api/tts-realtime/ HTTP/1.1" 200 19245
+[08/Feb/2026 23:50:53] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:50:56] "POST /api/tts-realtime/ HTTP/1.1" 200 15149
+[08/Feb/2026 23:50:58] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:51:02] "POST /api/tts-realtime/ HTTP/1.1" 200 21037
+[08/Feb/2026 23:51:04] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:51:07] "POST /api/tts-realtime/ HTTP/1.1" 200 50733
+[08/Feb/2026 23:51:12] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:51:16] "POST /api/tts-realtime/ HTTP/1.1" 200 16173
+[08/Feb/2026 23:51:18] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:51:22] "POST /api/tts-realtime/ HTTP/1.1" 200 54829
+[08/Feb/2026 23:51:27] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:51:31] "POST /api/tts-realtime/ HTTP/1.1" 200 25389
+[08/Feb/2026 23:51:33] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:51:37] "POST /api/tts-realtime/ HTTP/1.1" 200 29485
+[08/Feb/2026 23:51:40] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:51:44] "POST /api/tts-realtime/ HTTP/1.1" 200 26925
+[08/Feb/2026 23:51:46] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:51:50] "POST /api/tts-realtime/ HTTP/1.1" 200 23853
+[08/Feb/2026 23:51:52] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:51:56] "POST /api/tts-realtime/ HTTP/1.1" 200 24109
+[08/Feb/2026 23:51:58] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:52:02] "POST /api/tts-realtime/ HTTP/1.1" 200 24877
+[08/Feb/2026 23:52:04] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:52:08] "POST /api/tts-realtime/ HTTP/1.1" 200 62765
+[08/Feb/2026 23:52:14] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:52:18] "POST /api/tts-realtime/ HTTP/1.1" 200 40493
+[08/Feb/2026 23:52:21] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:52:25] "POST /api/tts-realtime/ HTTP/1.1" 200 53037
+[08/Feb/2026 23:52:30] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:52:34] "POST /api/tts-realtime/ HTTP/1.1" 200 42029
+[08/Feb/2026 23:52:37] "OPTIONS /api/tts-realtime/ HTTP/1.1" 200 0
+[08/Feb/2026 23:52:41,189] - Broken pipe from ('127.0.0.1', 59884)
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 23:49:46
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/core/services/tts.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 08, 2026 - 23:56:22
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
+/Users/crazychukz/Desktop/DEV/groit-ai-backend/groit_ai/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 09, 2026 - 00:01:52
+Django version 6.0.2, using settings 'groit_ai.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.0/howto/deployment/
+Watching for file changes with StatReloader
